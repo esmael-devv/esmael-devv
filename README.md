@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ismail Mohammed</h1>
+<h3 align="center">Java Developer | Former .NET Developer | Backend Engineering Enthusiast</h3>
 
-<!--
-**esmael-devv/esmael-devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Java Developer | Spring Boot | MySQL | System Design</strong><br />
+  <strong>Ex-.NET Developer</strong><br />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+- 👨‍💻 Currently working as a **Java Backend Developer** using **Spring Boot**, **MySQL**, and modern Java
+- 🌱 Expanding my skills in **System Design**, **Spring Security**, and **Microservices**
+- 👨‍🎓 Graduated in **2023** from **Governor State University** with a degree in Computer Science
+- 💼 Previously worked for, building enterprise apps with **C# and ASP.NET**
+- 💬 Ask me about **Spring Boot**, **Java**, **SQL**, and **.NET (C#)**, **SOLID**, **Design Pattens**, **DSA** if you like
+- 📫 Reach me at: **ismail.bitte@gmail.com**
+
+---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ismailmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="ismailmohammed" />
+</p>
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ismail-mohammed-3a0a80184/" target="blank"  title="Isamil Mohammed">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:ismail.bitte@gmail.com" target="blank" title="ismail.bitte@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+</p>
+
+---
+
+### 🔧 Tech Stack
+
+**Primary Stack:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Also Experienced In:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+**Tools & IDEs:**  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ismailmohammed&show_icons=true&theme=default" alt="ismail's stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailmohammed&layout=compact" alt="ismail's languages" />
+</p>
+
+---
+
+_Thanks for stopping by! Let's build efficient, scalable, and robust backend systems together._ 🚀
