@@ -18,9 +18,7 @@
 - 📫 Reach me at: **ismail.bitte@gmail.com**
 
 ---
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ismailmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="ismailmohammed" />
-</p>
+
 
 ### 🌐 Connect With Me
 
