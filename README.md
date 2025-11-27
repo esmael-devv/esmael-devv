@@ -52,6 +52,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
+## 📄 Publications
+
+- **Face Detection System with Face Recognition**  
+  *International Journal of Merging Technology and Advanced Research in Computing (IJMTARC), Vol. 8, Issue 22, Jan–Mar 2020*  
+  [PDF](https://github.com/esmael-devv/Publication/blob/main/Face-Detection-System-with-Face-Recognition-2020-IJMTARC-200311.pdf) · [Repo](https://github.com/esmael-devv/Publication)
 
 
 ---
