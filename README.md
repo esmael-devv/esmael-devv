@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail Mohammed</h1>
-<h3 align="center">Java Developer | Former .NET Developer | Backend Engineering Enthusiast</h3>
+<h3 align="center">Software Developer | Backend Engineering Enthusiast</h3>
 
 <p align="center">
   <strong>Java Developer | Spring Boot | MySQL | System Design</strong><br />
@@ -10,11 +10,11 @@
 
 ### 💡 About Me
 
-- 👨‍💻 Currently working as a **Java Backend Developer** using **Spring Boot**, **MySQL**, and modern Java
-- 🌱 Expanding my skills in **System Design**, **Spring Security**, and **Microservices**
+- 👨‍💻 Currently working as a **Software Developer** 
+- 🌱 Expanding my skills in **System Design**, **Security**, and **Microservices**
 - 👨‍🎓 Graduated in **2023** from **Governor State University** with a degree in Computer Science
-- 💼 Previously worked for, building enterprise apps with **C# and ASP.NET**
-- 💬 Ask me about **Spring Boot**, **Java**, **SQL**, and **.NET (C#)**, **SOLID**, **Design Pattens**, **DSA** if you like
+- 💼 Building enterprise apps with **C# and ASP.NET**
+- 💬 Ask me about  **.NET (C#)**, **Spring Boot**, **Java**, **SQL**, and, **SOLID**, **Design Pattens**, **DSA** if you like
 - 📫 Reach me at: **ismail.bitte@gmail.com**
 
 ---
