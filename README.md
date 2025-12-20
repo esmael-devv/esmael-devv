@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismail Mohammed</h1>
 <h3 align="center">Software Developer | Backend Engineering Enthusiast</h3>
 
-<p align="center">
-  <strong>Java Developer | Spring Boot | MySQL | System Design</strong><br />
-  <strong>Ex-.NET Developer</strong><br />
-</p>
-
 ---
 
 ### 💡 About Me
