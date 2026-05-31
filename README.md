@@ -8,7 +8,7 @@
 - 👨‍💻 Currently working as a **Software Developer** 
 - 🌱 Expanding my skills in **System Design**, **Security**, and **Microservices**
 - 👨‍🎓 Graduated from **Governor State University** with a degree in Computer Science
-- 💼 Building enterprise apps with **C# and ASP.NET**
+- 💼 Building enterprise apps with **JAVA, SpringBoot, C# and ASP.NET**
 - 💬 Ask me about  **ASP.NET (C#)**, **Spring Boot**, **Java**, **SQL**, and, **SOLID**, **Design Pattens**, **DSA** if you like
 - 📫 Reach me at: **ismail.bitte@gmail.com**
 
