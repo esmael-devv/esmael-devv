@@ -46,34 +46,6 @@ My engineering interests span **distributed systems, messaging, API design, data
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
-## Projects & code
-
-Here are a few repositories from my GitHub profile. I will add more complete, independently developed projects as I build them.
-
-| Repository | Focus |
-| --- | --- |
-| [KafkaBasics](https://github.com/esmael-devv/KafkaBasics) | Exploring Kafka producers, consumers, and event-driven messaging |
-| [AppSettingsManager](https://github.com/esmael-devv/AppSettingsManager) | Application configuration and settings management |
-| [EcommerceProductService](https://github.com/esmael-devv/EcommerceProductService) | Backend service development |
-| [ParkingLot](https://github.com/esmael-devv/ParkingLot) | Object-oriented design and modeling |
-| [taskmanager](https://github.com/esmael-devv/taskmanager) | Application development practice |
-
-> These links point to existing repositories. Each project's own README is the best place to find its current scope and setup details.
-
-## AI engineering journey 🚀
-
-I'm documenting my progress from **LLM API fundamentals** toward more complete AI-powered applications.
-
-Areas I'm studying and experimenting with:
-
-- **LLM APIs:** Model requests, message roles, response handling, and configuration
-- **Python tooling:** Virtual environments, environment variables, HTTP requests, and web scraping
-- **Prototyping:** Gradio-based interfaces for interactive experiments
-- **Next areas to explore:** RAG, embeddings, tool use, evaluation, and production-oriented AI integration
-
-My goal is to apply AI engineering skills alongside my existing backend and distributed-systems experience—not replace solid engineering fundamentals with demos.
-
-*As the course progresses, I'll link my learning repository and completed AI projects here.*
 
 ## Publication
 
